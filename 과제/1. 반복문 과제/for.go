@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 func main() {
 	// 1. 1부터 10까지 출력해보는 과제입니다. 
 	// ####으로 표시된 빈칸을 채워주세요
@@ -30,4 +32,6 @@ func main() {
 			fmt.Println(####)
 		}
 	}
+
+	// 정답은 for range 강의의 "미션"에 코드를 복사해서 제출해주세요
 }
